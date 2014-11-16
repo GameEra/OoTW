@@ -9,7 +9,7 @@ function Update () {
 	// Did the user press fire?
 	if (Input.GetButton ("Fire1")){
 		print("Fire");
-		Axe.animation.CrossFade("AxeAttack");
+//		Axe.animation.CrossFade("AxeAttack");
 		}
 	
 	if (Input.GetKeyDown("1")) {
