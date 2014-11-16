@@ -47,19 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_NoSpec.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop_Shadows.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Lite.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Shadows.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Opaque.shader" />
-     <None Include="Assets\WaterPlus\Terrains\Terrain_3Textures.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlusInclude.cginc" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_HQ.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop_Lite.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

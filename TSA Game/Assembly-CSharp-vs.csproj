@@ -46,21 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\WaterPlus\Scripts\FlowmapAnimator.cs" />
-     <Compile Include="Assets\WaterPlus\Scripts\WaterPlusScript.cs" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_NoSpec.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop_Shadows.shader" />
+     <Compile Include="Assets\Surya\Scripts\NPC_Dialogue.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Lite.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Shadows.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Opaque.shader" />
-     <None Include="Assets\WaterPlus\Terrains\Terrain_3Textures.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlusInclude.cginc" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_HQ.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop_Lite.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

@@ -1,3 +1,4 @@
+var Axe : Transform;
 
 function Start () {
 	// Select the first weapon
@@ -6,8 +7,10 @@ function Start () {
 
 function Update () {
 	// Did the user press fire?
-	if (Input.GetButton ("Fire1"))
-		BroadcastMessage("Fire");
+	if (Input.GetButton ("Fire1")){
+		print("Fire");
+		Axe.animation.CrossFade("AxeAttack");
+		}
 	
 	if (Input.GetKeyDown("1")) {
 		SelectWeapon(0);
