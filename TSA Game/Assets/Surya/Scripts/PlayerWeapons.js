@@ -7,8 +7,8 @@ function Start () {
 
 function Update () {
 	// Did the user press fire?
-	if (Input.GetButton ("Fire1")){
-		print("Fire");
+	if (Input.GetButton ("Fire2")){
+		print("Attack");
 //		Axe.animation.CrossFade("AxeAttack");
 		}
 	

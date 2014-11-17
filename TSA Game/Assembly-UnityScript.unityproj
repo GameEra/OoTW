@@ -46,13 +46,30 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FallDamage_Scripts\FallDamage.js" />
+     <Compile Include="Assets\Inventory\Scripts\Character.js" />
+     <Compile Include="Assets\Inventory\Scripts\Inventory.js" />
+     <Compile Include="Assets\Inventory\Scripts\InventoryDisplay.js" />
+     <Compile Include="Assets\Inventory\Scripts\Items\EquipmentEffect.js" />
+     <Compile Include="Assets\Inventory\Scripts\Items\FirstPersonPickUp.js" />
+     <Compile Include="Assets\Inventory\Scripts\Items\Item.js" />
+     <Compile Include="Assets\Inventory\Scripts\Items\ItemEffect.js" />
+     <Compile Include="Assets\Inventory\Scripts\Other\ChangeScene.js" />
+     <Compile Include="Assets\Inventory\Scripts\Other\InvAudio.js" />
+     <Compile Include="Assets\Inventory\Scripts\Other\InvPauseGame.js" />
+     <Compile Include="Assets\Inventory\Scripts\Other\WeaponSwitch.js" />
      <Compile Include="Assets\Random\Attack.js" />
      <Compile Include="Assets\Random\GotoDes.js" />
      <Compile Include="Assets\Random\GotoFor.js" />
+     <Compile Include="Assets\Surya\Scripts\CameraSwitch.js" />
      <Compile Include="Assets\Surya\Scripts\Move.js" />
      <Compile Include="Assets\Surya\Scripts\PlayerWeapons.js" />
+     <Compile Include="Assets\UnderWater\UnderWater(REVISE).js" />
+     <None Include="Assets\Inventory\Credits + C#.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\UnderWater\READ ME.txt" />
+     <None Include="Assets\FallDamage_Scripts\READ ME.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">

@@ -46,59 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Sample Assets\Effects\Image Effects (Pro Only)\Editor\Image Effects\DepthOfFieldScatterEditor.js" />
-     <Compile Include="Assets\Sample Assets\Effects\Light Shafts\Editor\LightShaftsEditor.js" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_NoSpec.shader" />
-     <None Include="Assets\Sample Assets\Effects\Toon Shading\Shaders\Toony-Basic.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop_Shadows.shader" />
-     <None Include="Assets\Sample Assets\Prototyping\Shaders\WorldCoord Diffuse.shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\SamplePositions.shader" />
-     <None Include="Assets\Sample Assets\Effects\Image Effects (Pro Only)\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
-     <None Include="Assets\Sample Assets\Effects\Tessellation Shaders\Shaders\BumpedSpecularSmooth.shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\Shared.cginc" />
+     <Compile Include="Assets\Inventory\Resources\Editor\InventoryEditor.js" />
+     <None Include="Assets\Inventory\Credits + C#.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\Coord.shader" />
-     <None Include="Assets\Sample Assets\Effects\Image Effects (Pro Only)\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Lite.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Shadows.shader" />
-     <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
-     <None Include="Assets\Sample Assets\Effects\Projectors\Shaders\Projector Additive.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_Opaque.shader" />
-     <None Include="Assets\Sample Assets\Vehicles\Aircraft\Aircraft Guidelines.txt" />
-     <None Include="Assets\WaterPlus\Terrains\Terrain_3Textures.shader" />
-     <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\InterpolateAlongRays.shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\DepthBreaks.shader" />
-     <None Include="Assets\Sample Assets\Effects\Toon Shading\Shaders\Toony-BasicOutline.shader" />
-     <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Alpha.shader" />
-     <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlusInclude.cginc" />
-     <None Include="Assets\Sample Assets\Effects\Particle Systems\Particle Systems Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Cross Platform Input\Cross Platform Input Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add (Soft).shader" />
-     <None Include="Assets\Sample Assets\Effects\Toon Shading\Shaders\Toony-LightedOutline.shader" />
-     <None Include="Assets\Sample Assets\Effects\Toon Shading\Shaders\Toony-Lighted.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile_HQ.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop_Lite.shader" />
-     <None Include="Assets\Sample Assets\Effects\Shaders\Mobile-Spec.shader" />
-     <None Include="Assets\Sample Assets\Vehicles\Car\Car Guidelines.txt" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Desktop.shader" />
-     <None Include="Assets\Sample Assets\Characters\Third Person Character\Third Person Character Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Cameras\Camera Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\Raymarch.shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\FinalInterpolation.shader" />
-     <None Include="Assets\Sample Assets\Characters\First Person Character\First Person Character Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\Depth.shader" />
-     <None Include="Assets\Sample Assets\Vehicles\Rolling Ball\Rolling Ball Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
-     <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
-     <None Include="Assets\Sample Assets\Effects\Tessellation Shaders\Shaders\BumpedSpecularDisplacement.shader" />
-     <None Include="Assets\WaterPlus\Shaders\WaterPlus_Mobile.shader" />
-     <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
- <Reference Include="WaterPlusInternal">
- <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/WaterPlus/Scripts/Editor/WaterPlusInternal.dll</HintPath>
- </Reference>
+     <None Include="Assets\UnderWater\READ ME.txt" />
+     <None Include="Assets\FallDamage_Scripts\READ ME.txt" />
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>

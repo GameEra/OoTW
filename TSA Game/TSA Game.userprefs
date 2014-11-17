@@ -1,9 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Surya\Scripts\PlayerWeapons.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FallDamage_Scripts\FallDamage.js">
     <Files>
-      <File FileName="Assets\Surya\Scripts\PlayerWeapons.js" Line="12" Column="3" />
-      <File FileName="Assets\Surya\Scripts\NPC_Dialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Surya\Scripts\NPC_Dialogue.cs" Line="30" Column="75" />
+      <File FileName="..\..\..\Unity\TestGa\Assets\SimplePause\SimplePause.js" Line="1" Column="1" />
+      <File FileName="Assets\Inventory\Scripts\Items\Item.js" Line="1" Column="1" />
+      <File FileName="Assets\Inventory\Scripts\Items\FirstPersonPickUp.js" Line="49" Column="5" />
+      <File FileName="Assets\FallDamage_Scripts\FallDamage.js" Line="25" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

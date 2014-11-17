@@ -9,6 +9,8 @@ Project("{43FAF087-01D0-0A1B-0A38-018C479AE0E2}") = "TSA Game", "Assembly-UnityS
 EndProject
 Project("{43FAF087-01D0-0A1B-0A38-018C479AE0E2}") = "TSA Game", "Assembly-UnityScript.unityproj", "{72FE2CCA-9434-DCCA-53AD-23CA803E915B}"
 EndProject
+Project("{43FAF087-01D0-0A1B-0A38-018C479AE0E2}") = "TSA Game", "Assembly-UnityScript-Editor.unityproj", "{B694B0A7-C007-3E33-D757-7223C88FAB4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,11 +33,15 @@ Global
 		{72FE2CCA-9434-DCCA-53AD-23CA803E915B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72FE2CCA-9434-DCCA-53AD-23CA803E915B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72FE2CCA-9434-DCCA-53AD-23CA803E915B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B694B0A7-C007-3E33-D757-7223C88FAB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B694B0A7-C007-3E33-D757-7223C88FAB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B694B0A7-C007-3E33-D757-7223C88FAB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B694B0A7-C007-3E33-D757-7223C88FAB4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-												GlobalSection(MonoDevelopProperties) = preSolution
+																							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

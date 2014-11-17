@@ -21,10 +21,14 @@ public class NPC_Dialogue : MonoBehaviour {
 	void OnTriggerEnter () {
 
 		DisplayDialogue = true;
+		GameObject.Find("Main Camera").GetComponent<MouseLook>().enabled = false;
+		GameObject.Find("Player").GetComponent<MouseLook>().enabled = false;
 	}
 	
 	void OnTriggerExit (){
 		DisplayDialogue = false;
+		GameObject.Find("Main Camera").GetComponent<MouseLook>().enabled = true;
+		GameObject.Find("Player").GetComponent<MouseLook>().enabled = true;
 
 	}
 
