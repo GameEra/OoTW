@@ -48,15 +48,26 @@
   <ItemGroup>
      <Compile Include="Assets\Inventory\Resources\Editor\InventoryEditor.js" />
      <None Include="Assets\Inventory\Credits + C#.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_README.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\UnderWater\READ ME.txt" />
      <None Include="Assets\FallDamage_Scripts\READ ME.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_REFERENCE.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="Assembly-UnityScript">
  <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
+ <Reference Include="ArcLayerManager">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/ArcLayerManager.dll</HintPath>
+ </Reference>
+ <Reference Include="U_r_g_utils">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/U_r_g_utils.dll</HintPath>
+ </Reference>
+ <Reference Include="U_r_g_freelib">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/Editor/U_r_g_freelib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

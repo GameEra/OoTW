@@ -47,12 +47,36 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SimpleParticlePack\Scripts\ParticleTester.cs" />
-     <Compile Include="Assets\Surya\Scripts\NPC_Dialogue.cs" />
+     <Compile Include="Assets\Surya\Scripts\Compass.cs" />
+     <Compile Include="Assets\Surya\Scripts\Rabbit_Dialogue.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsactorcontroller.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsasmhelper.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsbike.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clscameratarget.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clscannon.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clscannonball.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsdismemberatorwrapper.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clskinetify.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsmeshpostprocessor.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsragdollhelperfree.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsragdollifyfree.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsragdollrelease.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clsshowcasehelper.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clstimemanager.cs" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\clstrigger.cs" />
      <None Include="Assets\Inventory\Credits + C#.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_README.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\UnderWater\READ ME.txt" />
      <None Include="Assets\FallDamage_Scripts\READ ME.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_REFERENCE.txt" />
+ <Reference Include="ArcLayerManager">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/ArcLayerManager.dll</HintPath>
+ </Reference>
+ <Reference Include="U_r_g_utils">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/U_r_g_utils.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">

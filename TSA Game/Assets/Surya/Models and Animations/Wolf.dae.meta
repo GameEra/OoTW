@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 510417fc15ba9fe48aa82849a2df91f8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cylinder
+    100004: DogArmature
+    100006: Ear.L
+    100008: Ear.R
+    100010: EarBase.L
+    100012: EarBase.R
+    100014: FFoot.L
+    100016: FFoot.R
+    100018: FFootIK.L
+    100020: FFootIK.R
+    100022: FShin.L
+    100024: FShin.R
+    100026: FThigh.L
+    100028: FThigh.R
+    100030: FThighPole.L
+    100032: FThighPole.R
+    100034: Head
+    100036: Hip
+    100038: Lamp
+    100040: Master
+    100042: Neck
+    100044: Plane
+    100046: RFoot.L
+    100048: RFoot.R
+    100050: RFootIK.L
+    100052: RFootIK.R
+    100054: Ribcage
+    100056: RLeg.L
+    100058: RLeg.R
+    100060: RLegPole.L
+    100062: RLegPole.R
+    100064: RShin.L
+    100066: RShin.R
+    100068: RThigh.L
+    100070: RThigh.R
+    100072: Spine
+    100074: Tail1
+    100076: Tail2
+    100078: TailBase
+    100080: //RootNode
+    400000: Camera
+    400002: Cylinder
+    400004: DogArmature
+    400006: Ear.L
+    400008: Ear.R
+    400010: EarBase.L
+    400012: EarBase.R
+    400014: FFoot.L
+    400016: FFoot.R
+    400018: FFootIK.L
+    400020: FFootIK.R
+    400022: FShin.L
+    400024: FShin.R
+    400026: FThigh.L
+    400028: FThigh.R
+    400030: FThighPole.L
+    400032: FThighPole.R
+    400034: Head
+    400036: Hip
+    400038: Lamp
+    400040: Master
+    400042: Neck
+    400044: Plane
+    400046: RFoot.L
+    400048: RFoot.R
+    400050: RFootIK.L
+    400052: RFootIK.R
+    400054: Ribcage
+    400056: RLeg.L
+    400058: RLeg.R
+    400060: RLegPole.L
+    400062: RLegPole.R
+    400064: RShin.L
+    400066: RShin.R
+    400068: RThigh.L
+    400070: RThigh.R
+    400072: Spine
+    400074: Tail1
+    400076: Tail2
+    400078: TailBase
+    400080: //RootNode
+    2300000: Plane
+    3300000: Plane
+    4300000: Cylinder
+    4300002: Plane
+    9500000: //RootNode
+    13700000: Cylinder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\FallDamage_Scripts\FallDamage.js" />
+     <Compile Include="Assets\Health.js" />
      <Compile Include="Assets\Inventory\Scripts\Character.js" />
      <Compile Include="Assets\Inventory\Scripts\Inventory.js" />
      <Compile Include="Assets\Inventory\Scripts\InventoryDisplay.js" />
@@ -62,14 +63,24 @@
      <Compile Include="Assets\Random\GotoDes.js" />
      <Compile Include="Assets\Random\GotoFor.js" />
      <Compile Include="Assets\Surya\Scripts\CameraSwitch.js" />
+     <Compile Include="Assets\Surya\Scripts\Crouch.js" />
      <Compile Include="Assets\Surya\Scripts\Move.js" />
      <Compile Include="Assets\Surya\Scripts\PlayerWeapons.js" />
+     <Compile Include="Assets\UltimateRagdollFree\Scripts\ragdolldrag.js" />
      <Compile Include="Assets\UnderWater\UnderWater(REVISE).js" />
      <None Include="Assets\Inventory\Credits + C#.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_README.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\UnderWater\READ ME.txt" />
      <None Include="Assets\FallDamage_Scripts\READ ME.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_REFERENCE.txt" />
+ <Reference Include="ArcLayerManager">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/ArcLayerManager.dll</HintPath>
+ </Reference>
+ <Reference Include="U_r_g_utils">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/U_r_g_utils.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">

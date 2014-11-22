@@ -2,6 +2,7 @@
     var walkSpeed: float = 7; // regular speed
     var crchSpeed: float = 3; // crouching speed
     var runSpeed: float = 20; // run speed
+    var MCamera : Camera;
      
     private var chMotor: CharacterMotor;
     private var tr: Transform;
@@ -22,12 +23,17 @@
     if (chMotor.grounded && Input.GetKey("left shift") || Input.GetKey("right shift")){
     speed = runSpeed;
     }
-    if (Input.GetKey("c")){ // press C to crouch
-    vScale = 0.5;
-    speed = crchSpeed; // slow down when crouching
-    }
+//     if(Input.GetKeyDown(KeyCode.LeftControl))
+  //   {
+  //       MCamera.transform.Translate(0, -0.5, 0);
+    // }
+ //    else
+   //  {
+     //    MCamera.transform.Translate(0, 0, 0);
+   //  }
+   
     chMotor.movement.maxForwardSpeed = speed; // set max speed
     var ultScale = tr.localScale.y; // crouch/stand up smoothly
     tr.localScale.y = Mathf.Lerp(tr.localScale.y, vScale, 5*Time.deltaTime);
     tr.position.y += dist * (tr.localScale.y-ultScale); // fix vertical position
-    }
+     }

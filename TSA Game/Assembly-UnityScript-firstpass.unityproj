@@ -53,10 +53,18 @@
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
      <Compile Include="Assets\Standard Assets\Particles\Legacy Particles\TimedObjectDestructor.js" />
      <None Include="Assets\Inventory\Credits + C#.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_README.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\UnderWater\READ ME.txt" />
      <None Include="Assets\FallDamage_Scripts\READ ME.txt" />
+     <None Include="Assets\UltimateRagdollFree\___U_r_g_REFERENCE.txt" />
+ <Reference Include="ArcLayerManager">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/ArcLayerManager.dll</HintPath>
+ </Reference>
+ <Reference Include="U_r_g_utils">
+ <HintPath>C:/Users/surya/Documents/GitHub/OoTW/TSA Game/Assets/UltimateRagdollFree/Scripts/U_r_g_utils.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
