@@ -1,12 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Rabbit_Dialogue : MonoBehaviour {
+public class Wolf_Dialogue : MonoBehaviour {
 	public string [] answerButtons;
 	public string [] Questions;
 	bool DisplayDialogue = false;
 	bool ActivateQuest = false;
-	public Transform wolfMom;
+	public Transform wolfSon;
+
 
 
 	// Use this for initialization
@@ -52,12 +53,12 @@ public class Rabbit_Dialogue : MonoBehaviour {
 
 				if(GUILayout.Button(answerButtons[2])){
 					ActivateQuest = true;
-					GameObject.Find("RabbitTrap").active = false;
-					Pause ();
-					//DisplayDialogue = false;
+	//				GameObject.Find("RabbitTrap").active = false;
+	//				Pause ();
+					DisplayDialogue = false;
 				GameObject c = GameObject.Find("WeaponManager");
 					CompassScript compass = c.GetComponent<CompassScript>();
-					compass.target = wolfMom;
+					compass.target = wolfSon;
 				}
 
 			}
