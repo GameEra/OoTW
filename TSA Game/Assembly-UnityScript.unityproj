@@ -68,6 +68,7 @@
      <Compile Include="Assets\Surya\Scripts\PlayerWeapons.js" />
      <Compile Include="Assets\UltimateRagdollFree\Scripts\ragdolldrag.js" />
      <Compile Include="Assets\UnderWater\UnderWater(REVISE).js" />
+     <Compile Include="Assets\basic commands for gameplay\mouse lock.js" />
      <None Include="Assets\Inventory\Credits + C#.txt" />
      <None Include="Assets\UltimateRagdollFree\___U_r_g_README.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />

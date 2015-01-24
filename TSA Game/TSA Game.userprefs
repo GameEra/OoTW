@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Surya\Scripts\CompassScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\basic commands for gameplay\mouse lock.js">
     <Files>
-      <File FileName="Assets\Surya\Scripts\Wolf_Dialogue.cs" Line="60" Column="1" />
-      <File FileName="Assets\Surya\Scripts\CompassScript.cs" Line="10" Column="10" />
-      <File FileName="Assets\Surya\Scripts\Rabbit_Dialogue.cs" Line="58" Column="50" />
+      <File FileName="Assets\Surya\Scripts\Wolf_Dialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Surya\Scripts\CompassScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Surya\Scripts\Rabbit_Dialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\basic commands for gameplay\mouse lock.js" Line="4" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
